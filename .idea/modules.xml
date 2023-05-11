@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buscador/buscador.iml" filepath="$PROJECT_DIR$/buscador/buscador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/limite/limite.iml" filepath="$PROJECT_DIR$/limite/limite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minhasmusicas/minhasmusicas.iml" filepath="$PROJECT_DIR$/minhasmusicas/minhasmusicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroprojeto/primeiroprojeto.iml" filepath="$PROJECT_DIR$/primeiroprojeto/primeiroprojeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch/screenmatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ws-intellij-java.iml" filepath="$PROJECT_DIR$/.idea/ws-intellij-java.iml" />
+    </modules>
+  </component>
+</project>
